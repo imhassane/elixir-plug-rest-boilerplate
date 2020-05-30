@@ -31,4 +31,4 @@ can use atoms defined in the same file such `:not_found` which will be converted
 
 ### Tutorial: Building a movie api with the boilerplate
 I've written a story on medium on how to build and test an api with the boilerplate.
-[See the full article here](https://medium.com/swlh/building-and-testing-a-simple-rest-api-with-elixir-plug-db063b3d443a=
+[See the full article here](https://medium.com/swlh/building-and-testing-a-simple-rest-api-with-elixir-plug-db063b3d443a)
